@@ -72,3 +72,18 @@ input[type="number"]{
 
     margin-right: 30px;
 }
+input[type="passwordl"]{
+    margin: 5px 0;
+border: 2px solid #757171;
+outline: none;
+border-radius: 5px;
+font-style: italic;
+padding: 3px;
+box-sizing: border-box;
+box-shadow: 0 0 10px;
+font-size: 14px;
+border-style:double;
+background-color: #e7dede;
+margin-right:30px;
+
+}
